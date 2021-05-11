@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hola 👋
 
 <!--
 **15Galan/15Galan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Mis Estadísticas
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=15Galan&show_icons=true&count_private=true&include_all_commits=true&locale=es)
+
+## Mis Lenguajes más usados
+[![Top de Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=15Galan&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+Ey, ¡gracias por la visita!  
+
+![Contador](https://komarev.com/ghpvc/?username=15Galan)
