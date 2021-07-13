@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ## Mis Estadísticas
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=15Galan&show_icons=true&count_private=true&include_all_commits=true&locale=es)
+![Racha de commits](https://github-readme-streak-stats.herokuapp.com/?user=15Galan)
 
 ## Mis Lenguajes más usados
 [![Top de Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=15Galan&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
