@@ -109,7 +109,7 @@ Cada enlace conduce al repositorio de dicha asignatura; además, puedes encontra
             <td>Sistemas Inteligentes II</td>
         </tr>
         <tr>
-            <td><b><a href="https://github.com/15Galan/mencion-330" target="_blank" rel="noopener noreferrer">Servicios Telemáticos</a></b></td>
+            <td><b><a href="https://github.com/15Galan/mencion-330" target="_blank" rel="noopener noreferrer">Desarrollo de Servicios Telemáticos</a></b></td>
             <td><b><a href="https://github.com/15Galan/mencion-331" target="_blank" rel="noopener noreferrer">Modelos Estadísticos y Simulación</a></b></td>
         </tr>
         <tr>
