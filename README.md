@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://github.com/15Galan">
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=15Galan&show_icons=true&count_private=true&include_all_commits=true&locale=es" />
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=15Galan&layout=compact&langs_count=10&&locale=es" />
   </a>
 </p>
 
@@ -28,6 +27,11 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=15Galan&layout=compact&langs_count=10&&locale=es" />
+  </a>
+</p>
 
 
 # Mis asignaturas
@@ -35,7 +39,7 @@ Here are some ideas to get you started:
 Si estás estudiando en la _ETSII_ de la _Universidad de Málaga_, puedo ofrecerte material de las asignaturas en azul.  
 Cada enlace conduce al repositorio de dicha asignatura; además, puedes encontrar información útil en la pestaña _Wiki_ de cada uno.
 
-<table>
+<table align="center">
     <thead align="center">
         <tr>
             <th></th>
@@ -73,7 +77,7 @@ Cada enlace conduce al repositorio de dicha asignatura; además, puedes encontra
         </tr>
         <tr>
             <td rowspan="5">Año II</td>
-            <td>Análisis y Diseño de Algoritmos</td>
+            <td><a href="https://github.com/15Galan/asignatura-201" target="_blank" rel="noopener noreferrer">Análisis y Diseño de Algoritmos</a></td>
             <td>Introducción a la Ingeniería del Software</td>
         </tr>
         <tr>
