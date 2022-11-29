@@ -28,6 +28,12 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
+    <a href="https://github.com/oakoudad/badge42">
+        <img src="https://badge.mediaplus.ma/kettlebells/antgalan?1337Badge=off&UM6P=off" alt="antgalan's 42 stats" />
+    </a>
+</p>
+
+<p align="center">
   <a href="https://github.com">
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=15Galan&layout=compact&langs_count=10&&locale=es" />
   </a>
