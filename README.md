@@ -107,12 +107,23 @@
             </td>
         </tr>
         <tr>
-            <td>Other</td>
+            <td>Git</td>
             <td>
                 <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white" alt="Git">
                 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub">
                 <img src="https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=flat&logo=gitlab&logoColor=white" alt="GitLab">
+                <img src="https://img.shields.io/badge/Bitbucket-%230052CC.svg?style=flat&logo=bitbucket&logoColor=white" alt="Bitbucket">
                 <img src="https://img.shields.io/badge/GitKraken-%23179287.svg?style=flat&logo=gitkraken&logoColor=white" alt="GitKraken">
+                <img src="https://img.shields.io/badge/Conventional%20Commits-%23FE5196.svg?style=flat&logo=conventional-commits&logoColor=white" alt="Conventional Commits">
+            </td>
+            <td>
+                <img src="https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=flat&logo=github-actions&logoColor=white" alt="GitHub Actions">
+                <img src="https://img.shields.io/badge/GitBook-%233884FF.svg?style=flat&logo=gitbook&logoColor=white" alt="GitBook">
+            </tr>
+        </tr>
+        <tr>
+            <td>Other</td>
+            <td>
                 <img src="https://img.shields.io/badge/Markdown-%23151515.svg?style=flat&logo=markdown&logoColor=white" alt="Markdown">
                 <img src="https://img.shields.io/badge/Latex-%23008080.svg?style=flat&logo=latex&logoColor=white" alt="LaTeX">
                 <img src="https://img.shields.io/badge/Notion-%23FFFFFF.svg?style=flat&logo=notion&logoColor=black" alt="Notion">
@@ -164,10 +175,11 @@
                 <img src="https://img.shields.io/badge/WireShark-%231679A7.svg?style=flat&logo=wireshark&logoColor=white" alt="WireShark">
                 <img src="https://img.shields.io/badge/nmap-%23D0ECF4.svg?style=flat&logo=nmap&logoColor=white" alt="nmap">
                 <img src="https://img.shields.io/badge/John%20The%20Ripper-%23BA1515.svg?style=flat&logo=john-the-ripper&logoColor=black" alt="John The Ripper">
-                <img src="https://img.shields.io/badge/Hydra-%23168F78.svg?style=flat&logo=hydra&logoColor=white" alt="Hydra">
                 <img src="https://img.shields.io/badge/OpenVPN-%23EA7E20.svg?style=flat&logo=openvpn&logoColor=white" alt="OpenVPN">
             </td>
             <td>
+                <img src="https://img.shields.io/badge/Hydra-%23168F78.svg?style=flat&logo=hydra&logoColor=white" alt="Hydra">
+                <img src="https://img.shields.io/badge/Meterpreter-%238B0000.svg?style=flat&logo=meterpreter&logoColor=white" alt="Meterpreter">
                 <img src="https://img.shields.io/badge/Hashcat-%233E3E41.svg?style=flat&logo=hashcat&logoColor=white" alt="Hashcat">
             </tr>
     </tbody>
