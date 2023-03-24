@@ -1,22 +1,25 @@
 <div align="center">
+    <h1>Computer Science & Cibersecurity</h1>
+    <p align="left">
+        Hi, I'm Galán, a computer engineer training in cybersecurity; I'm currently developing my final degree work: a proof of concept of my own pentesting training platform.
+        <br>
+        However, not everything is work, my -scarce- free time is dedicated to cibersecurity's PKM (<i>Personal Knowledge Management</i>) and I also enjoy playing board games.
+    </p>
+    <p>
+        <b>My goal is to increase my value and that of those around me.</b>
+    </p>
     <img src="https://komarev.com/ghpvc/?username=15Galan" alt="15Galan"/>
 </div>
 
 <div align="center">
-    <h1>Computer Science & Cibersecurity</h1>
-    <p>
-        <!-- TODO -->
-    </p>
-</div>
-
-<div align="center">
     <h1>📊 GitHub Stats 📊</h1>
+    <p align="left">
+        I really like using Git and GitHub, so I try to use them whenever I can, as well as all their possibilities to be as efficient and productive as possible.
+    </p>
     <a href="https://github.com/15Galan">
         <img src="https://github-trophies.vercel.app/?username=15Galan&theme=radical&rank=SSS,SS,S,AAA,AA,A,B,C&file=2&column=3&margin-w=5&margin-h=5" alt="Trofeos Normales" height="200em"/>
         <img src="https://github-trophies.vercel.app/?username=15Galan&theme=radical&rank=SECRET&file=2&column=2&margin-w=5&margin-h=5" alt="Trofeos Secretos" height="200em"/>
-    </a>
     <br>
-    <a href="https://github.com/15Galan">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=15Galan&theme=radical&layout=compact&langs_count=6" height="130em" alt="15Galan"/>
         <img src="https://github-readme-stats.vercel.app/api?username=15Galan&theme=radical&show_icons=true&count_private=true&include_all_commits=true" height="130em" alt="15Galan"/>
     </a>
@@ -24,12 +27,9 @@
 
 <div align="center">
     <h1>💻 Tech Knowledge 💻</h1>
-    <p>
-        I have worked with many programming languages during my years of career and
-        <br>learning about them to know their differences, virtues, use cases...
-        <br>is something that really interests me.
+    <p align="left">
+        I have worked with many programming languages during my years of career, and learning about them to know their differences, virtues, use cases... is something that really interests me.
     </p>
-    <br>
 </div>
 
 <table align="center">
@@ -184,9 +184,3 @@
             </tr>
     </tbody>
 </table>
-
---- 
- 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=15Galan" alt="15Galan"/>
-</div>
