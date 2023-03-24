@@ -1,160 +1,195 @@
-<!--
-**15Galan/15Galan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+    <h1>Computer Science & Cibersecurity</h1>
+    <p>
+        <img src="https://img.shields.io/badge/Nat-🇪🇸-%23aaaaaa.svg?style=flat" alt="Idioma"/>
+        <img src="https://img.shields.io/badge/B1-🇬🇧-%23aaaaaa.svg?style=flat" alt="Idioma"/>
+        <img src="https://img.shields.io/badge/A2-🇫🇷-%23aaaaaa.svg?style=flat" alt="Idioma"/>
+    </p>
+    <p align="left">
+        Hi, I'm <b>Galán</b>, a computer scientist training in cybersecurity; I'm currently developing my final degree work: <b>a proof of concept of my own pentesting training platform</b>.
+        <br>
+        However, not everything is work, my -scarce- free time is dedicated to <b>cibersecurity's PKM</b> (<i>Personal Knowledge Management</i>) and I also enjoy playing <b>board games</b>.
+    </p>
+    <p>
+        <b><i>" My goal is to increase my value and that of those around me. "</b></i>
+    </p>
+    <img src="https://komarev.com/ghpvc/?username=15Galan" alt="15Galan"/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Mis estadísticas
-
-<p align="center">
-  <a href="https://github.com/15Galan">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=15Galan&show_icons=true&count_private=true&include_all_commits=true&locale=es" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/15Galan">
-    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=15Galan" />
-  </a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/oakoudad/badge42">
-        <img src="https://badge.mediaplus.ma/kettlebells/antgalan?1337Badge=off&UM6P=off" alt="antgalan's 42 stats" />
+<div align="center">
+    <h1>📊 GitHub Stats 📊</h1>
+    <p align="left">
+        I really like using Git and GitHub, so I try to use them whenever I can, as well as all their possibilities to be as efficient and productive as possible.
+    </p>
+    <a href="https://github.com/15Galan">
+        <img src="https://github-trophies.vercel.app/?username=15Galan&theme=radical&rank=SSS,SS,S,AAA,AA,A,B,C&file=2&column=3&margin-w=5&margin-h=5" alt="Trofeos Normales" height="200em"/>
+        <img src="https://github-trophies.vercel.app/?username=15Galan&theme=radical&rank=SECRET&file=2&column=2&margin-w=5&margin-h=5" alt="Trofeos Secretos" height="200em"/>
+    <br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=15Galan&theme=radical&layout=compact&langs_count=6" height="130em" alt="15Galan"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=15Galan&theme=radical&show_icons=true&count_private=true&include_all_commits=true" height="130em" alt="15Galan"/>
     </a>
-</p>
+</div>
 
-<p align="center">
-  <a href="https://github.com">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=15Galan&layout=compact&langs_count=10&&locale=es" />
-  </a>
-</p>
-
-
-# Mis asignaturas
-
-Si estás estudiando en la _ETSII_ de la _Universidad de Málaga_, puedo ofrecerte material de las asignaturas en azul.  
-Cada enlace conduce al repositorio de dicha asignatura; además, puedes encontrar información útil en la pestaña _Wiki_ de cada uno.
+<div align="center">
+    <h1>💻 Tech Knowledge 💻</h1>
+    <p align="left">
+        I have worked with many programming languages during my years of career, and learning about them to know their differences, virtues, use cases... is something that really interests me.
+    </p>
+</div>
 
 <table align="center">
     <thead align="center">
         <tr>
             <th></th>
-            <th>Cuatrimestre I</th>
-            <th>Cuatrimestre II</th>
+            <th>What I know</th>
+            <th>What I want to know</th>
         </tr>
     </thead>
     <tbody align="center">
         <tr>
-            <td colspan="4"></td>
+            <td> <!-- Empty --> </td>
+            <td colspan=2>
+                <b>General Purpose</b>
+            </td>
         </tr>
         <tr>
-            <td rowspan="5">Año I</td>
-            <td>Cálculo para la Computación</td>
-            <td>Estructuras Algebráicas</td>
+            <td>Languages</td>
+            <td>
+                <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white" alt="Bash">
+                <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C">
+                <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
+                <img src="https://img.shields.io/badge/Haskell-5e5086?style=flat&logo=haskell&logoColor=white" alt="Haskell">
+                <img src="https://img.shields.io/badge/Java-%23DD4F39.svg?style=flat&logo=oracle&logoColor=white" alt="Java">
+                <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white" alt="Lua">
+                <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white" alt="Python">
+            </td>
+            <td>
+                <img src="https://img.shields.io/badge/Assembly-%23545454.svg?style=flat&logo=assembly&logoColor=white" alt="Assembly">
+                <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white" alt="Go">
+                <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white" alt="Rust">
+                <img src="https://img.shields.io/badge/Ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white" alt="Ruby">
+                <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+                <img src="https://img.shields.io/badge/Nim-%23FFE953.svg?style=flat&logo=nim&logoColor=black" alt="Nim">
+                <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white" alt="PowerShell">
+            </td>
         </tr>
         <tr>
-            <td>Fundamentos Físicos de la Informática</td>
-            <td>Métodos Estadísticos para la Computación</td>
+            <td>Databases</td>
+            <td>
+                <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" alt="MariaDB">
+                <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+                <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" alt="SQLite">
+            </td>
+            <td>
+                <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+                <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
+            </td>
         </tr>
         <tr>
-            <td>Fundamentos de Electrónica</td>
-            <td>Organización Empresarial</td>
+            <td>Virtualization</td>
+            <td>
+                <img src="https://img.shields.io/badge/VirtualBox-%23183A61.svg?style=flat&logo=virtualbox&logoColor=white" alt="VirtualBox">
+            </td>
+            <td>
+                <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker">
+                <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes">
+                <img src="https://img.shields.io/badge/Vagrant-%231868F2.svg?style=flat&logo=vagrant&logoColor=white" alt="Vagrant">
+                <img src="https://img.shields.io/badge/VMware-%23607078.svg?style=flat&logo=vmware&logoColor=white" alt="VMware">
+            </td>
+        <tr>
+            <td>Operative Systems</td>
+            <td>
+                <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black" alt="Linux">
+                <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu">
+                <img src="https://img.shields.io/badge/Zorin%20OS-%231572B6.svg?style=flat&logo=zorin&logoColor=white" alt="Zorin OS">
+                <img src="https://img.shields.io/badge/Kali%20Linux-%23080636.svg?style=flat&logo=kali-linux&logoColor=white" alt="Kali Linux">
+            </td>
+            <td>
+                <img src="https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?style=flat&logo=arch-linux&logoColor=white" alt="Arch Linux">
+                <img src="https://img.shields.io/badge/Debian-%23A81D33.svg?style=flat&logo=debian&logoColor=white" alt="Debian">
+                <img src="https://img.shields.io/badge/Kali%20Purple-%23AE078C.svg?style=flat&logo=kali-linux&logoColor=white" alt="Kali Purple">
+                <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows">
+            </td>
         </tr>
         <tr>
-            <td>Fundamentos de Programación</td>
-            <td><a href="https://github.com/15Galan/asignatura-109" target="_blank" rel="noopener noreferrer">Programación Orientada a Objetos</a></td>
+            <td>Git</td>
+            <td>
+                <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white" alt="Git">
+                <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub">
+                <img src="https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=flat&logo=gitlab&logoColor=white" alt="GitLab">
+                <img src="https://img.shields.io/badge/Bitbucket-%230052CC.svg?style=flat&logo=bitbucket&logoColor=white" alt="Bitbucket">
+                <img src="https://img.shields.io/badge/GitKraken-%23179287.svg?style=flat&logo=gitkraken&logoColor=white" alt="GitKraken">
+                <img src="https://img.shields.io/badge/Conventional%20Commits-%23FE5196.svg?style=flat&logo=conventional-commits&logoColor=white" alt="Conventional Commits">
+            </td>
+            <td>
+                <img src="https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=flat&logo=github-actions&logoColor=white" alt="GitHub Actions">
+                <img src="https://img.shields.io/badge/GitBook-%233884FF.svg?style=flat&logo=gitbook&logoColor=white" alt="GitBook">
+            </tr>
         </tr>
         <tr>
-            <td>Matemática Discreta</td>
-            <td>Tecnología de Computadores</td>
+            <td>Other</td>
+            <td>
+                <img src="https://img.shields.io/badge/Markdown-%23151515.svg?style=flat&logo=markdown&logoColor=white" alt="Markdown">
+                <img src="https://img.shields.io/badge/Latex-%23008080.svg?style=flat&logo=latex&logoColor=white" alt="LaTeX">
+                <img src="https://img.shields.io/badge/Notion-%23FFFFFF.svg?style=flat&logo=notion&logoColor=black" alt="Notion">
+                <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=flat&logo=obsidian&logoColor=white" alt="Obsidian">
+                <img src="https://img.shields.io/badge/Overleaf-%2347A141.svg?style=flat&logo=overleaf&logoColor=white" alt="Overleaf">
+                <img src="https://img.shields.io/badge/Drupal-%230678BE.svg?style=flat&logo=drupal&logoColor=white" alt="Drupal">
+            </td>
+            <td>
+                <img src="https://img.shields.io/badge/Vim-%23019733.svg?style=flat&logo=vim&logoColor=white" alt="Vim">
+                <img src="https://img.shields.io/badge/Neovim-%2357A143.svg?style=flat&logo=neovim&logoColor=white" alt="Neovim">
+                <img src="https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?style=flat&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi">
+                <img src="https://img.shields.io/badge/Warp-%2301A4FF.svg?style=flat&logo=warp&logoColor=white" alt="Warp">
+                <img src="https://img.shields.io/badge/Gimp-%235C5543.svg?style=flat&logo=gimp&logoColor=white" alt="Gimp">
+            </td>
         </tr>
         <tr>
-            <td colspan="4"></td>
+            <td> <!-- Empty --> </td>
+            <td colspan=2>
+                <b>Cybersecurity</b>
+            </td>
         </tr>
         <tr>
-            <td rowspan="5">Año II</td>
-            <td><a href="https://github.com/15Galan/asignatura-201" target="_blank" rel="noopener noreferrer">Análisis y Diseño de Algoritmos</a></td>
-            <td>Introducción a la Ingeniería del Software</td>
+            <td>Platforms</td>
+            <td>
+                <img src="https://img.shields.io/badge/TryHackme-%23FFFFFF.svg?style=flat&logo=tryhackme&logoColor=C11111" alt="Try Hack Me">
+                <img src="https://img.shields.io/badge/HTB%20Academy-%23111927.svg?style=flat&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box">
+            </td>
+            <td>
+                <img src="https://img.shields.io/badge/Hack%20The%20Box-%23111927.svg?style=flat&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box">
+                <img src="https://img.shields.io/badge/TCM%20Security-%23D8265B.svg?style=flat&logo=tcm-security&logoColor=white" alt="TCM Security">
+                <img src="https://img.shields.io/badge/Offensive%20Security-%234946CE.svg?style=flat&logo=offensive-security&logoColor=white" alt="Offensive Security">
+            </td>
         </tr>
         <tr>
-            <td>Bases de Datos</td>
-            <td><a href="https://github.com/15Galan/asignatura-207" target="_blank" rel="noopener noreferrer">Programación y Sistemas de Concurrencia</a></td>
+            <td>Frameworks</td>
+            <td>
+                <img src="https://img.shields.io/badge/Metasploit-%232596CD.svg?style=flat&logo=metasploit&logoColor=white" alt="Metasploit">
+                <img src="https://img.shields.io/badge/Burp%20Suite-%23FF6633.svg?style=flat&logo=burp-suite&logoColor=black" alt="Burp Suite">
+                <img src="https://img.shields.io/badge/OWASP%20ZAP-%2300549E.svg?style=flat&logo=owasp-zap&logoColor=white" alt="OWASP ZAP">
+            </td>
+            <td>
+                <img src="https://img.shields.io/badge/Suricata-%23F6AC31.svg?style=flat&logo=suricata&logoColor=white" alt="Suricata">
+                <img src="https://img.shields.io/badge/Zeek-%232980B9.svg?style=flat&logo=zeek&logoColor=black" alt="Zeek">
+            </td>
         </tr>
         <tr>
-            <td><a href="https://github.com/15Galan/asignatura-203" target="_blank" rel="noopener noreferrer">Estructura de Computadores</a></td>
-            <td>Redes y Sistemas Distribuidos</td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/15Galan/asignatura-204" target="_blank" rel="noopener noreferrer">Estructura de Datos</a></td>
-            <td>Sistemas Inteligentes I</td>
-        </tr>
-        <tr>
-            <td>Teoría de Autómatas y Lenguajes Formales</td>
-            <td><a href="https://github.com/15Galan/asignatura-210" target="_blank" rel="noopener noreferrer">Sistemas Operativos</a></td>
-        </tr>
-        <tr>
-            <td colspan="4"></td>
-        </tr>
-        <tr>
-            <td rowspan="5">Año III</td>
-            <td><a href="https://github.com/15Galan/asignatura-301" target="_blank" rel="noopener noreferrer">Introducción a los Sistemas de Información</a></td>
-            <td><a href="https://github.com/15Galan/asignatura-305" target="_blank" rel="noopener noreferrer">Administración de Bases de Datos</a></td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/15Galan/asignatura-302" target="_blank" rel="noopener noreferrer">Procesadores de Lenguajes</a></td>
-            <td><a href="https://github.com/15Galan/asignatura-306" target="_blank" rel="noopener noreferrer">Sistemas de Información para Internet</a></td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/15Galan/asignatura-303" target="_blank" rel="noopener noreferrer">Seguridad de la Información</a></td>
-            <td>Sistemas Inteligentes II</td>
-        </tr>
-        <tr>
-            <td><b><a href="https://github.com/15Galan/mencion-330" target="_blank" rel="noopener noreferrer">Desarrollo de Servicios Telemáticos</a></b></td>
-            <td><b><a href="https://github.com/15Galan/mencion-331" target="_blank" rel="noopener noreferrer">Modelos Estadísticos y Simulación</a></b></td>
-        </tr>
-        <tr>
-            <td><i>Redes Inalámbricas</i></td>
-            <td><i>Procesamiento de Imágenes y Vídeo</i></td>
-        </tr>
-        <tr>
-            <td colspan="4"></td>
-        </tr>
-        <tr>
-            <td rowspan="4">Año IV</td>
-            <td><b><a href="https://github.com/15Galan/mencion-430" target="_blank" rel="noopener noreferrer">Administración de Sistemas Operativos</a></b></td>
-            <td><a href="https://github.com/15Galan/asignatura-401" target="_blank" rel="noopener noreferrer">Proyectos y Legislación</a></td>
-        </tr>
-        <tr>
-            <td><b>Diseño y Evaluación de Infraestructuras Informáticas</b></td>
-            <td><i>Arquitecturas Clúster</i></td>
-        </tr>
-        <tr>
-            <td><b><a href="https://github.com/15Galan/mencion-432" target="_blank" rel="noopener noreferrer">Planificación de Proyectos y Análisis de Riesgos</a></b></td>
-            <td><i>Prácticas Externas</i></td>
-        </tr>
-        <tr>
-            <td><b>Tecnología de los Sistemas de Producción</b></td>
-            <td>T.F.G</td>
-        </tr>
+            <td>Tools</td>
+            <td>
+                <img src="https://img.shields.io/badge/WireShark-%231679A7.svg?style=flat&logo=wireshark&logoColor=white" alt="WireShark">
+                <img src="https://img.shields.io/badge/nmap-%23D0ECF4.svg?style=flat&logo=nmap&logoColor=white" alt="nmap">
+                <img src="https://img.shields.io/badge/John%20The%20Ripper-%23BA1515.svg?style=flat&logo=john-the-ripper&logoColor=black" alt="John The Ripper">
+                <img src="https://img.shields.io/badge/OpenVPN-%23EA7E20.svg?style=flat&logo=openvpn&logoColor=white" alt="OpenVPN">
+            </td>
+            <td>
+                <img src="https://img.shields.io/badge/Hydra-%23168F78.svg?style=flat&logo=hydra&logoColor=white" alt="Hydra">
+                <img src="https://img.shields.io/badge/Meterpreter-%238B0000.svg?style=flat&logo=meterpreter&logoColor=white" alt="Meterpreter">
+                <img src="https://img.shields.io/badge/Hashcat-%233E3E41.svg?style=flat&logo=hashcat&logoColor=white" alt="Hashcat">
+            </tr>
     </tbody>
 </table>
 
-* **Negrita** para las asignaturas de mi mención.
-* _Cursiva_ para mis asignaturas optativas.
-
 ---
 
- Considera dejar una ⭐ en aquellos repositorios que te hayan resultado útil.  
-
-¡Gracias por la visita!  
-![Contador](https://komarev.com/ghpvc/?username=15Galan)
+- Reach me on [my littlelink](https://srgalan.vercel.app)
