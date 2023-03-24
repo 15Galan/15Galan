@@ -12,13 +12,13 @@
 <div align="center">
     <h1>📊 GitHub Stats 📊</h1>
     <a href="https://github.com/15Galan">
-        <img src="https://github-trophies.vercel.app/?username=15Galan&theme=radical&rank=SSS,SS,S,AAA,AA,A,B,C&file=2&column=3&margin-w=5&margin-h=5" alt="Trofeos Normales"  height="200em"/>
-        <img src="https://github-trophies.vercel.app/?username=15Galan&theme=radical&rank=SECRET&file=2&column=2&margin-w=5&margin-h=5" alt="Trofeos Secretos"  height="200em"/>
+        <img src="https://github-trophies.vercel.app/?username=15Galan&theme=radical&rank=SSS,SS,S,AAA,AA,A,B,C&file=2&column=3&margin-w=5&margin-h=5" alt="Trofeos Normales" height="200em"/>
+        <img src="https://github-trophies.vercel.app/?username=15Galan&theme=radical&rank=SECRET&file=2&column=2&margin-w=5&margin-h=5" alt="Trofeos Secretos" height="200em"/>
     </a>
     <br>
     <a href="https://github.com/15Galan">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=15Galan&theme=radical&layout=compact&langs_count=10" height="200em" alt="15Galan"/>
-        <img src="https://github-readme-stats.vercel.app/api?username=15Galan&theme=radical&show_icons=true&count_private=true&include_all_commits=true"  height="200em" alt="15Galan"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=15Galan&theme=radical&layout=compact&langs_count=6" height="130em" alt="15Galan"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=15Galan&theme=radical&show_icons=true&count_private=true&include_all_commits=true" height="130em" alt="15Galan"/>
     </a>
 </div>
 
