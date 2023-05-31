@@ -22,11 +22,11 @@
         I really like using Git and GitHub, so I try to use them whenever I can, as well as all their possibilities to be as efficient and productive as possible.
     </p>
     <a href="https://github.com/15Galan">
-        <img src="https://github-trophies.vercel.app/?username=15Galan&theme=radical&rank=SSS,SS,S,AAA,AA,A,B,C&file=2&column=3&margin-w=5&margin-h=5" alt="Trofeos Normales" height="200em"/>
-        <img src="https://github-trophies.vercel.app/?username=15Galan&theme=radical&rank=SECRET&file=2&column=2&margin-w=5&margin-h=5" alt="Trofeos Secretos" height="200em"/>
+        <img src="https://github-trophies.vercel.app/?username=15Galan&theme=radical&rank=SSS,SS,S,AAA,AA,A,B,C&file=2&column=3&margin-w=5&margin-h=5" alt="Trofeos Normales" weight="200vw"/>
+        <img src="https://github-trophies.vercel.app/?username=15Galan&theme=radical&rank=SECRET&file=2&column=2&margin-w=5&margin-h=5" alt="Trofeos Secretos" weight="200vw"/>
     <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=15Galan&theme=radical&layout=compact&langs_count=6" height="130em" alt="15Galan"/>
-        <img src="https://github-readme-stats.vercel.app/api?username=15Galan&theme=radical&show_icons=true&count_private=true&include_all_commits=true" height="130em" alt="15Galan"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=15Galan&theme=radical&layout=compact&langs_count=6" height="130em" weight="100vw" alt="15Galan"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=15Galan&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly" height="130em" weight="100vw" alt="15Galan"/>
     </a>
 </div>
 
