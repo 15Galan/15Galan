@@ -32,9 +32,17 @@
 
 <div align="center">
     <h1>💻 Tech Knowledge 💻</h1>
-    <p align="left">
-        I have worked with many programming languages during my years of career, and learning about them to know their differences, virtues, use cases... is something that really interests me.
-    </p>
+    <div align="left">
+        <p>
+            I have worked with many programming languages during my years of career, and learning about them to know their differences, virtues, use cases... is something that really interests me.
+        </p>
+        <p>
+            This idea of <b>learning about the different technologies that exist, and the different ways of doing things</b>, is something that I tried to apply to all the fields that I have been able to, and it's what I'll try to do whenever I can.
+        </p>
+        <p>
+            The next table reflects the knowledge/experience I have about different technologies, and technologies I'm interested in.
+        </p>
+    </div>
 </div>
 
 <table align="center">
