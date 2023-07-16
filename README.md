@@ -1,9 +1,9 @@
 <div align="center">
-    <h1>Computer Science & Cibersecurity</h1>
     <p>
-        <img src="https://img.shields.io/badge/Nat-🇪🇸-%23aaaaaa.svg?style=flat" alt="Idioma"/>
-        <img src="https://img.shields.io/badge/B1-🇬🇧-%23aaaaaa.svg?style=flat" alt="Idioma"/>
-        <img src="https://img.shields.io/badge/A2-🇫🇷-%23aaaaaa.svg?style=flat" alt="Idioma"/>
+        <img src=".github/readme/banner-light.png#gh-light-mode-only" alt="Banner (light)" />
+        <img src=".github/readme/banner-dark.png#gh-dark-mode-only" alt="Banner (dark)" />
+    </p>
+    <p>
         <img src="https://img.shields.io/badge/Nat-🇪🇸-%23aaaaaa.svg?style=flat" alt="Idioma nativo"/>
         <img src="https://img.shields.io/badge/B1-🇬🇧-%23aaaaaa.svg?style=flat" alt="Segundo idioma"/>
         <img src="https://img.shields.io/badge/A2-🇫🇷-%23aaaaaa.svg?style=flat" alt="Tercer idioma"/>
