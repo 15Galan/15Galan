@@ -8,7 +8,7 @@
     <p align="left">
         Hi, I'm <b>Galán</b>, a computer scientist training in cybersecurity; I'm currently developing my final degree work: <b>a proof of concept of my own pentesting training platform</b>.
         <br>
-        However, not everything is work, my -scarce- free time is dedicated to <b>cibersecurity's PKM</b> (<i>Personal Knowledge Management</i>) and I also enjoy playing <b>board games</b>.
+        However, not everything is work, my -scarce- free time is dedicated to <b>cybersecurity's PKM</b> (<i>Personal Knowledge Management</i>) and I also enjoy playing <b>board games</b>.
     </p>
     <p>
         <b><i>" My goal is to increase my value and that of those around me. "</b></i>
