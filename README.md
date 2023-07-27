@@ -229,6 +229,12 @@
     </table>
 </div>
 
----
-
-- Reach me on [my littlelink](https://srgalan.vercel.app)
+<div align="center">
+    <h1>Contact</h1>
+    <p>
+        You can reach me on <a href="https://srgalan.vercel.app">my LittleLink</a>, a service to easily share links about me.
+    </p>
+    <p>
+        <i>I don't like social media.</i>
+    </p>
+</div>
