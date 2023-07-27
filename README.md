@@ -189,6 +189,15 @@
             </td>
         </tr>
         <tr>
+            <td>Communities</td>
+            <td>
+                <img src="https://img.shields.io/badge/H4ckingPro-%23F40003.svg?style=flat" alt="H4">
+                <img src="https://img.shields.io/badge/Hacking%20Ético%20Español-%235582A9.svg?style=flat&logoColor=white" alt="HEE">
+            </td>
+            <td>
+            </td>
+        </tr>
+        <tr>
             <td>Frameworks</td>
             <td>
                 <img src="https://img.shields.io/badge/Burp%20Suite-%23FF6633.svg?style=flat&logo=burp-suite&logoColor=black" alt="Burp Suite">
@@ -198,6 +207,7 @@
             <td>
                 <img src="https://img.shields.io/badge/Suricata-%23F6AC31.svg?style=flat&logo=suricata&logoColor=white" alt="Suricata">
                 <img src="https://img.shields.io/badge/Zeek-%232980B9.svg?style=flat&logo=zeek&logoColor=black" alt="Zeek">
+                <img src="https://img.shields.io/badge/Wazuh-%233AABE6.svg?style=flat&logo=wazuh&logoColor=white" alt="Wazuh">
             </td>
         </tr>
         <tr>
