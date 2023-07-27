@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-    <h1>📊 GitHub Stats 📊</h1>
+    <h1>GitHub Stats</h1>
     <p align="left">
         I really like using Git and GitHub, so I try to use them whenever I can, as well as all their possibilities to be as efficient and productive as possible.
     </p>
@@ -34,7 +34,7 @@
 </div>
 
 <div align="center">
-    <h1>💻 Tech Knowledge 💻</h1>
+    <h1>Tech Knowledge</h1>
     <div align="left">
         <p>
             I have worked with many programming languages during my years of career, and learning about them to know their differences, virtues, use cases... is something that really interests me.
