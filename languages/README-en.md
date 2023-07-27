@@ -1,75 +1,75 @@
 <div align="center">
     <p>
-        <img src=".github/readme/banner-light.png#gh-light-mode-only" alt="Banner (claro)" />
-        <img src=".github/readme/banner-dark.png#gh-dark-mode-only" alt="Banner (oscuro)" />
+        <img src="../.github/readme/banner-light.png#gh-light-mode-only" alt="Banner (light)" />
+        <img src="../.github/readme/banner-dark.png#gh-dark-mode-only" alt="Banner (dark)" />
     </p>
     <p>
-        <img src="https://img.shields.io/badge/Nat-🇪🇸-%23aaaaaa.svg?style=flat" alt="Idioma nativo"/>
-        <a href="/languages/README-en.md">
-            <img src="https://img.shields.io/badge/B1-🇬🇧-%23aaaaaa.svg?style=flat" alt="Segundo idioma"/>
-        <a>
+        <a href="../README.md">
+            <img src="https://img.shields.io/badge/Nat-🇪🇸-%23aaaaaa.svg?style=flat" alt="Native language"/>
+        </a>
+        <img src="https://img.shields.io/badge/B1-🇬🇧-%23aaaaaa.svg?style=flat" alt="Second language"/>
         <a href="/languages/README-fr.md">
-            <img src="https://img.shields.io/badge/A2-🇫🇷-%23aaaaaa.svg?style=flat" alt="Tercer idioma"/>
+            <img src="https://img.shields.io/badge/A2-🇫🇷-%23aaaaaa.svg?style=flat" alt="Third language"/>
         </a>
     </p>
     <div align="left">
         <p>
-            Hola, soy <b>Galán</b>, un ingeniero informático especializándose en ciberseguridad; actualmente estoy desarrollando mi trabajo de fin de grado: <b>una prueba de concepto de mi propia plataforma de formación en pentesting</b>.
+            Hi, I'm <b>Galán</b>, a computer scientist training in cybersecurity; I'm currently developing my final degree work: <b>a proof of concept of my own pentesting training platform</b>.
         </p>
         <p>
-            Sin embargo, no todo es trabajo, mi -escaso- tiempo libre lo dedico al <b>PKM de ciberseguridad</b> (<i>Personal Knowledge Management</i>) y también disfruto jugando a <b>juegos de mesa</b>.
+            However, not everything is work, my -scarce- free time is dedicated to <b>cybersecurity's PKM</b> (<i>Personal Knowledge Management</i>) and I also enjoy playing <b>board games</b>.
         </p>
     </div>
     <p>
-        <b><i>" Mi objetivo es aumentar mi valor y el de los que me rodean. "</b></i>
+        <b><i>" My goal is to increase my value and that of those around me. "</b></i>
     </p>
-    <img src="https://komarev.com/ghpvc/?username=15Galan" alt="Visitas"/>
+    <img src="https://komarev.com/ghpvc/?username=15Galan" alt="Visits"/>
 </div>
 
 <div align="center">
-    <h1>Estadísticas de GitHub</h1>
+    <h1>GitHub Stats</h1>
     <p align="left">
-        Me gusta mucho usar Git y GitHub, por lo que trato de utilizarlos siempre que puedo, así como todas sus posibilidades para ser lo más eficiente y productivo posible.
+        I really like using Git and GitHub, so I try to use them whenever I can, as well as all their possibilities to be as efficient and productive as possible.
     </p>
     <a href="https://github.com/15Galan">
-        <img src="https://github-trophies.vercel.app/?username=15Galan&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C&file=2&column=3&margin-w=5&margin-h=5" alt="Trofeos" weight="200vw"/>
-        <img src="https://github-trophies.vercel.app/?username=15Galan&no-bg=true&no-frame=true&rank=SECRET&file=2&column=2&margin-w=5&margin-h=5" alt="Trofeos secretos" weight="200vw"/>
+        <img src="https://github-trophies.vercel.app/?username=15Galan&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C&file=2&column=3&margin-w=5&margin-h=5" alt="Trophies" weight="200vw"/>
+        <img src="https://github-trophies.vercel.app/?username=15Galan&no-bg=true&no-frame=true&rank=SECRET&file=2&column=2&margin-w=5&margin-h=5" alt="Secret Trophies" weight="200vw"/>
         <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=15Galan&theme=transparent&title_color=00000000&bg_color=00000000&hide_border=true&layout=compact&langs_count=6" height="130em" weight="100vw" alt="Lenguajes"/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=15Galan&theme=transparent&hide_border=true&stroke=00000000&date_format=j%20M%5B%20Y%5D&mode=weekly&locale=es" height="130em" weight="100vw" alt="Racha"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=15Galan&theme=transparent&title_color=00000000&bg_color=00000000&hide_border=true&layout=compact&langs_count=6" height="130em" weight="100vw" alt="Languages"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=15Galan&theme=transparent&hide_border=true&stroke=00000000&date_format=j%20M%5B%20Y%5D&mode=weekly" height="130em" weight="100vw" alt="Streak"/>
     </a>
 </div>
 
 <div align="center">
-    <h1>Conocimiento Tecnológico</h1>
+    <h1>Tech Knowledge</h1>
     <div align="left">
         <p>
-            He trabajado con muchos lenguajes de programación a lo largo de mi carrera, y aprender sobre ellos para conocer sus diferencias, virtudes, casos de uso... es algo que realmente me interesa.
+            I have worked with many programming languages during my years of career, and learning about them to know their differences, virtues, use cases... is something that really interests me.
         </p>
         <p>
-            Esta idea de <b>aprender sobre diferentes tecnologías existentes y diferentes formas de hacer las cosas</b> es algo que he tratado de aplicar en todos los campos en los que he podido, y es lo que intentaré hacer siempre que pueda.
+            This idea of <b>learning about the different technologies that exist, and the different ways of doing things</b>, is something that I tried to apply to all the fields that I have been able to, and it's what I'll try to do whenever I can.
         </p>
         <p>
-            La siguiente tabla refleja el conocimiento/experiencia que tengo sobre diferentes tecnologías, y aquellas que me interesan.
+            The next table reflects the knowledge/experience I have about different technologies, and technologies I'm interested in.
         </p>
     </div>
     <table>
         <thead>
             <tr>
                 <th></th>
-                <th>Qué sé usar</th>
-                <th>Qué quiero aprender</th>
+                <th>What I know</th>
+                <th>What I want to know</th>
             </tr>
         </thead>
         <tbody align="center">
             <tr>
-                <td> <!-- Espacio vacío --> </td>
+                <td> <!-- Empty --> </td>
                 <td colspan=2>
-                    <b>Propósito General</b>
+                    <b>General Purpose</b>
                 </td>
             </tr>
             <tr>
-                <td>Lenguajes</td>
+                <td>Languages</td>
                 <td>
                     <img src="https://img.shields.io/badge/Assembly-%23545454.svg?style=flat&logo=assembly&logoColor=white" alt="Assembly">
                     <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white" alt="Bash">
@@ -90,7 +90,7 @@
                 </td>
             </tr>
             <tr>
-                <td>Bases de datos</td>
+                <td>Databases</td>
                 <td>
                     <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" alt="MariaDB">
                     <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL">
@@ -102,7 +102,7 @@
                 </td>
             </tr>
             <tr>
-                <td>Virtualización</td>
+                <td>Virtualization</td>
                 <td>
                     <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker">
                     <img src="https://img.shields.io/badge/VirtualBox-%23183A61.svg?style=flat&logo=virtualbox&logoColor=white" alt="VirtualBox">
@@ -113,7 +113,7 @@
                     <img src="https://img.shields.io/badge/VMware-%23607078.svg?style=flat&logo=vmware&logoColor=white" alt="VMware">
                 </td>
             <tr>
-                <td>Sistemas Operativos</td>
+                <td>Operative Systems</td>
                 <td>
                     <img src="https://img.shields.io/badge/Debian-%23A81D33.svg?style=flat&logo=debian&logoColor=white" alt="Debian">
                     <img src="https://img.shields.io/badge/Kali%20Linux-%23080636.svg?style=flat&logo=kali-linux&logoColor=white" alt="Kali Linux">
@@ -125,7 +125,7 @@
                 </td>
             </tr>
             <tr>
-                <td>Control de Versiones</td>
+                <td>Version Control</td>
                 <td>
                     <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white" alt="Git">
                     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub">
@@ -139,7 +139,7 @@
                 </tr>
             </tr>
             <tr>
-                <td>Documentación</td>
+                <td>Documentation</td>
                 <td>
                     <img src="https://img.shields.io/badge/Latex-%23008080.svg?style=flat&logo=latex&logoColor=white" alt="LaTeX">
                     <img src="https://img.shields.io/badge/Markdown-%23151515.svg?style=flat&logo=markdown&logoColor=white" alt="Markdown">
@@ -163,7 +163,7 @@
             </tr>
             <!--
             <tr>
-                <td><i>Otros</i></td>
+                <td><i>Other</i></td>
                 <td>
                 </td>
                 <td>
@@ -176,13 +176,13 @@
             </tr>
             -->
             <tr>
-                <td> <!-- Vacío --> </td>
+                <td> <!-- Empty --> </td>
                 <td colspan=2>
-                    <b>Ciberseguridad</b>
+                    <b>Cybersecurity</b>
                 </td>
             </tr>
             <tr>
-                <td>Plataformas</td>
+                <td>Platforms</td>
                 <td>
                     <img src="https://img.shields.io/badge/HTB%20Academy-%23111927.svg?style=flat&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box">
                     <img src="https://img.shields.io/badge/TCM%20Security-%23D8265B.svg?style=flat&logo=tcm-security&logoColor=white" alt="TCM Security">
@@ -194,7 +194,7 @@
                 </td>
             </tr>
             <tr>
-                <td>Comunidades</td>
+                <td>Communities</td>
                 <td>
                     <img src="https://img.shields.io/badge/H4ckingPro-%23F40003.svg?style=flat" alt="H4">
                     <img src="https://img.shields.io/badge/Hacking%20Ético%20Español-%235582A9.svg?style=flat&logoColor=white" alt="HEE">
@@ -216,7 +216,7 @@
                 </td>
             </tr>
             <tr>
-                <td>Herramientas</td>
+                <td>Tools</td>
                 <td>
                     <img src="https://img.shields.io/badge/John%20The%20Ripper-%23BA1515.svg?style=flat&logo=john-the-ripper&logoColor=black" alt="John The Ripper">
                     <img src="https://img.shields.io/badge/nmap-%23D0ECF4.svg?style=flat&logo=nmap&logoColor=white" alt="nmap">
@@ -234,11 +234,11 @@
 </div>
 
 <div align="center">
-    <h1>Contacto</h1>
+    <h1>Contact</h1>
     <p>
-        Puedes contactar conmigo a través de <a href="https://srgalan.vercel.app">mi LittleLink</a>, un servicio para compartir fácilmente enlaces sobre mí.
+        You can reach me on <a href="https://srgalan.vercel.app">my LittleLink</a>, a service to easily share links about me.
     </p>
     <p>
-        <i>No me gustan las redes sociales.</i>
+        <i>I don't like social media.</i>
     </p>
 </div>
