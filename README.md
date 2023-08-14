@@ -82,10 +82,10 @@
                 </td>
                 <td>
                     <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white" alt="Go">
-                    <img src="https://img.shields.io/badge/Nim-%23FFE953.svg?style=flat&logo=nim&logoColor=black" alt="Nim">
-                    <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white" alt="PowerShell">
-                    <img src="https://img.shields.io/badge/Ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white" alt="Ruby">
                     <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white" alt="Rust">
+                    <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white" alt="PowerShell">
+                    <img src="https://img.shields.io/badge/Nim-%23FFE953.svg?style=flat&logo=nim&logoColor=black" alt="Nim">
+                    <img src="https://img.shields.io/badge/Ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white" alt="Ruby">
                     <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
                 </td>
             </tr>
@@ -120,6 +120,7 @@
                 </td>
                 <td>
                     <img src="https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?style=flat&logo=arch-linux&logoColor=white" alt="Arch Linux">
+                    <img src="https://img.shields.io/badge/NixOS-%235277C3.svg?style=flat&logo=nixos&logoColor=white" alt="NixOS">
                     <img src="https://img.shields.io/badge/Kali%20Purple-%23AE078C.svg?style=flat&logo=kali-linux&logoColor=white" alt="Kali Purple">
                     <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows">
                 </td>
@@ -165,6 +166,7 @@
             <tr>
                 <td><i>Otros</i></td>
                 <td>
+                    <img src="https://img.shields.io/badge/Wakatime-%23000000.svg?style=flat&logo=wakatime&logoColor=white" alt="Wakatime">
                 </td>
                 <td>
                     <img src="https://img.shields.io/badge/Vim-%23019733.svg?style=flat&logo=vim&logoColor=white" alt="Vim">
@@ -172,6 +174,8 @@
                     <img src="https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?style=flat&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi">
                     <img src="https://img.shields.io/badge/Warp-%2301A4FF.svg?style=flat&logo=warp&logoColor=white" alt="Warp">
                     <img src="https://img.shields.io/badge/Gimp-%235C5543.svg?style=flat&logo=gimp&logoColor=white" alt="Gimp">
+                    <img src="https://img.shields.io/badge/Inkscape-%23ffffff.svg?style=flat&logo=inkscape&logoColor=black" alt="Inkscape">
+                    <img src="https://img.shields.io/badge/Proton-%236D4AFF.svg?style=flat&logo=proton&logoColor=white" alt="Proton">
                 </td>
             </tr>
             -->
@@ -213,6 +217,7 @@
                     <img src="https://img.shields.io/badge/Suricata-%23F6AC31.svg?style=flat&logo=suricata&logoColor=white" alt="Suricata">
                     <img src="https://img.shields.io/badge/Zeek-%232980B9.svg?style=flat&logo=zeek&logoColor=black" alt="Zeek">
                     <img src="https://img.shields.io/badge/Wazuh-%233AABE6.svg?style=flat&logo=wazuh&logoColor=white" alt="Wazuh">
+                    <img src="https://img.shields.io/badge/Elasitc-%23005571.svg?style=flat&logo=elastic&logoColor=white" alt="Elastic">
                 </td>
             </tr>
             <tr>
@@ -226,8 +231,11 @@
                     <img src="https://img.shields.io/badge/Hashcat-%233E3E41.svg?style=flat&logo=hashcat&logoColor=white" alt="Hashcat">
                     <img src="https://img.shields.io/badge/Hydra-%23168F78.svg?style=flat&logo=hydra&logoColor=white" alt="Hydra">
                     <img src="https://img.shields.io/badge/Meterpreter-%232596CD.svg?style=flat&logo=meterpreter&logoColor=white" alt="Meterpreter">
+                    <img src="https://img.shields.io/badge/Tor-%237E4798.svg?style=flat&logo=tor-project&logoColor=white" alt="Tor">
                     <img src="https://img.shields.io/badge/OpenVPN-%23EA7E20.svg?style=flat&logo=openvpn&logoColor=white" alt="OpenVPN">
                     <img src="https://img.shields.io/badge/Wireguard-%2388171A.svg?style=flat&logo=wireguard&logoColor=white" alt="Wireguard">
+                    <img src="https://img.shields.io/badge/Flask-%23FFFFFF.svg?style=flat&logo=flask&logoColor=black" alt="Flask">
+                    <img src="https://img.shields.io/badge/osquery-%23A596FF.svg?style=flat&logo=wordlists&logoColor=white" alt="osquery">
                 </tr>
         </tbody>
     </table>
