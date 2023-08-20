@@ -180,6 +180,15 @@
             </tr>
             -->
             <tr>
+                <td> Estudios </td>
+                <td>
+                    <img src="https://img.shields.io/badge/Universidad%20de%20Málaga-%230E3366.svg?style=flat&logo=UMA&logoColor=white" alt="Universidad de Málaga">
+                    <img src="https://img.shields.io/badge/Málaga-%23000000.svg?style=flat&logo=42&logoColor=white" alt="42 Málaga">
+                </td>
+                <td>
+                </td>
+            </tr>
+            <tr>
                 <td> <!-- Vacío --> </td>
                 <td colspan=2>
                     <b>Ciberseguridad</b>
