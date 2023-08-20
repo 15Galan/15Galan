@@ -122,6 +122,7 @@
                     <img src="https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?style=flat&logo=arch-linux&logoColor=white" alt="Arch Linux">
                     <img src="https://img.shields.io/badge/NixOS-%235277C3.svg?style=flat&logo=nixos&logoColor=white" alt="NixOS">
                     <img src="https://img.shields.io/badge/Kali%20Purple-%23AE078C.svg?style=flat&logo=kali-linux&logoColor=white" alt="Kali Purple">
+                    <img src="https://img.shields.io/badge/Vanilla%20OS-%23F9BD4E.svg?style=flat&logo=vanilla&logoColor=white" alt="Vanilla OS">
                     <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows">
                 </td>
             </tr>
