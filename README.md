@@ -14,7 +14,10 @@
     </p>
     <div align="left">
         <p>
-            Hola, soy <b>Galán</b>, un ingeniero informático especializándose en ciberseguridad; actualmente estoy desarrollando mi trabajo de fin de grado: <b>una prueba de concepto de mi propia plataforma de formación en pentesting</b>.
+            Hola, soy <b>Galán</b>, un ingeniero informático especializándose en ciberseguridad.
+        </p>
+        <p>
+            Actualmente trabajo en <a href="https://hispasec.com">Hispasec</a>, la primera compañía de servicios de ciberseguridad de España, como <b>técnico SOC L2</b> y <b>coordinador de intervenciones</b>; y adicionalmente, también soy cofundador de <a href="https://formulahacking.es">Fórmula Hacking</a>, un centro de formación online en ciberseguridad, donde realizo labores de <b>docente</b> y <b>gestión de proyectos</b>.
         </p>
         <p>
             Sin embargo, no todo es trabajo, mi -escaso- tiempo libre lo dedico al <b>PKM de ciberseguridad</b> (<i>Personal Knowledge Management</i>) y también disfruto jugando a <b>juegos de mesa</b>.
