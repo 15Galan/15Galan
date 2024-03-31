@@ -196,6 +196,7 @@
                     <img src="https://img.shields.io/badge/GitBook-%233884FF.svg?style=flat&logo=gitbook&logoColor=white" alt="GitBook">
                 </td>
             </tr>
+            <!--
             <tr>
                 <td>Web</td>
                 <td>
@@ -219,7 +220,6 @@
                     <img src="https://img.shields.io/badge/Wireguard-%2388171A.svg?style=flat&logo=wireguard&logoColor=white" alt="Wireguard">
                 </td>
             </tr>
-            <!--
             <tr>
                 <td><i>Otros</i></td>
                 <td>
