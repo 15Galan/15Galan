@@ -1,5 +1,5 @@
-<div align="center">
-    <p>
+<div>
+    <p align="center">
         <img src=".github/readme/banner-light.png#gh-light-mode-only" alt="Banner (claro)" />
         <img src=".github/readme/banner-dark.png#gh-dark-mode-only" alt="Banner (oscuro)" />
     </p>
