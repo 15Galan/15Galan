@@ -283,11 +283,12 @@ Actualmente trabajo en <a href="https://hispasec.com">Hispasec</a>, la primera c
 </div>
 
 <div align="center">
-    <h1>Contacto</h1>
-    <p>
-        Puedes contactar conmigo a través de <a href="https://srgalan.vercel.app">mi LittleLink</a>, un servicio para compartir fácilmente enlaces sobre mí.
+    <h1>Estadísticas de GitHub</h1>
+    <p align="left">
+        Git y GitHub son herramientas que me encantan, por lo que trato de utilizarlas siempre que puedo para explotar todas sus posibilidades con el fin de ser lo más productivo posible.
     </p>
-    <p>
-        <i>No me gustan las redes sociales.</i>
-    </p>
+    <a href="https://github.com/15Galan">
+        <img src="https://github-trophies.vercel.app/?username=15Galan&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C&file=2&column=3&margin-w=5&margin-h=5" alt="Trofeos" weight="200vw"/>
+        <img src="https://github-trophies.vercel.app/?username=15Galan&no-bg=true&no-frame=true&rank=SECRET&file=2&column=2&margin-w=5&margin-h=5" alt="Trofeos secretos" weight="200vw"/>
+    </a>
 </div>
