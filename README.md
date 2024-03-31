@@ -7,46 +7,24 @@
         <a href="/languages/README-en.md">English<a> · <b>Español</b> · <a href="/languages/README-fr.md">Français</a>
         <img align="right" src="https://komarev.com/ghpvc/?username=15Galan" alt="Visitas"/>
     </p>
-    <p>
-        <b><i>" Mi objetivo es aumentar mi valor y el de los que me rodean. "</b></i>
-    </p>
-    <!--
-    <p>
-        <img src="https://img.shields.io/badge/Nat-🇪🇸-%23aaaaaa.svg?style=flat" alt="Idioma nativo"/>
-        <a href="/languages/README-en.md">
-            <img src="https://img.shields.io/badge/B1-🇬🇧-%23aaaaaa.svg?style=flat" alt="Segundo idioma"/>
-        <a>
-        <a href="/languages/README-fr.md">
-            <img src="https://img.shields.io/badge/A2-🇫🇷-%23aaaaaa.svg?style=flat" alt="Tercer idioma"/>
-        </a>
-    </p>
-    -->
-    <div align="left">
-        <p>
-            Hola, soy <b>Galán</b>, un ingeniero informático especializándose en ciberseguridad.
-        </p>
-        <p>
-            Actualmente trabajo en <a href="https://hispasec.com">Hispasec</a>, la primera compañía de servicios de ciberseguridad de España, como <b>técnico SOC L2</b> y <b>coordinador de intervenciones</b>; y adicionalmente, también soy cofundador de <a href="https://formulahacking.es">Fórmula Hacking</a>, un centro de formación online en ciberseguridad, donde realizo labores de <b>docencia</b> y <b>gestión de proyectos</b>.
-        </p>
-        <p>
-            Sin embargo, no todo es trabajo, mi -escaso- tiempo libre lo dedico al <b>PKM de ciberseguridad</b> (<i>Personal Knowledge Management</i>) y también disfruto jugando a <b>juegos de mesa</b>.
-        </p>
-    </div>
 </div>
 
-<div align="center">
-    <h1>Estadísticas de GitHub</h1>
-    <p align="left">
-        Git y GitHub son herramientas que me encantan, por lo que trato de utilizarlas siempre que puedo para explotar todas sus posibilidades con el fin de ser lo más productivo posible.
-    </p>
-    <a href="https://github.com/15Galan">
-        <img src="https://github-trophies.vercel.app/?username=15Galan&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C&file=2&column=3&margin-w=5&margin-h=5" alt="Trofeos" weight="200vw"/>
-        <img src="https://github-trophies.vercel.app/?username=15Galan&no-bg=true&no-frame=true&rank=SECRET&file=2&column=2&margin-w=5&margin-h=5" alt="Trofeos secretos" weight="200vw"/>
-    </a>
-</div>
+<br>
 
-<div align="center">
-    <h1>Conocimiento tecnológico</h1>
+$$
+\huge\text{Mi objetivo es aumentar mi valor y el de los que me rodean.}
+$$
+
+<br>
+
+Hola, soy <b>Galán</b>, un ingeniero informático especializándose en ciberseguridad.
+
+Actualmente trabajo en <a href="https://hispasec.com">Hispasec</a>, la primera compañía de servicios de ciberseguridad de España, como <b>técnico SOC L2</b> y <b>coordinador de intervenciones</b>; y adicionalmente, también soy cofundador de <a href="https://formulahacking.es">Fórmula Hacking</a>, un centro de formación online en ciberseguridad, donde realizo labores de <b>docencia</b> y <b>gestión de proyectos</b>.
+
+> [!TIP]  
+> Puedes contactar conmigo a través de mi [LittleLink](https://srgalan.vercel.app).  
+> *No me gustan las redes sociales.*
+
     <div align="left">
         <p>
             He trabajado con muchos lenguajes de programación a lo largo de mi carrera, y aprender sobre ellos para conocer sus diferencias, virtudes, casos de uso... es algo que realmente me interesa.
