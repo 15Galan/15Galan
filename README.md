@@ -288,7 +288,8 @@ Actualmente trabajo en <a href="https://hispasec.com">Hispasec</a>, la primera c
         Git y GitHub son herramientas que me encantan, por lo que trato de utilizarlas siempre que puedo para explotar todas sus posibilidades con el fin de ser lo más productivo posible.
     </p>
     <a href="https://github.com/15Galan">
-        <img src="https://github-trophies.vercel.app/?username=15Galan&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C&file=2&column=3&margin-w=5&margin-h=5" alt="Trofeos" weight="200vw"/>
-        <img src="https://github-trophies.vercel.app/?username=15Galan&no-bg=true&no-frame=true&rank=SECRET&file=2&column=2&margin-w=5&margin-h=5" alt="Trofeos secretos" weight="200vw"/>
+        <img src="https://github-trophies.vercel.app/?username=15Galan&theme=monokai&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C&file=1&column=6&margin-w=5&margin-h=5" alt="Trofeos" weight="200vw"/>
+        <br>
+        <img src="https://github-trophies.vercel.app/?username=15Galan&theme=monokai&no-bg=true&no-frame=true&rank=SECRET&file=1&column=4&margin-w=5&margin-h=5" alt="Trofeos secretos" weight="200vw"/>
     </a>
 </div>
