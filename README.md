@@ -3,6 +3,14 @@
         <img src=".github/readme/banner-light.png#gh-light-mode-only" alt="Banner (claro)" />
         <img src=".github/readme/banner-dark.png#gh-dark-mode-only" alt="Banner (oscuro)" />
     </p>
+    <p align="left">
+        <a href="/languages/README-en.md">English<a> · <b>Español</b> · <a href="/languages/README-fr.md">Français</a>
+        <img align="right" src="https://komarev.com/ghpvc/?username=15Galan" alt="Visitas"/>
+    </p>
+    <p>
+        <b><i>" Mi objetivo es aumentar mi valor y el de los que me rodean. "</b></i>
+    </p>
+    <!--
     <p>
         <img src="https://img.shields.io/badge/Nat-🇪🇸-%23aaaaaa.svg?style=flat" alt="Idioma nativo"/>
         <a href="/languages/README-en.md">
@@ -12,6 +20,7 @@
             <img src="https://img.shields.io/badge/A2-🇫🇷-%23aaaaaa.svg?style=flat" alt="Tercer idioma"/>
         </a>
     </p>
+    -->
     <div align="left">
         <p>
             Hola, soy <b>Galán</b>, un ingeniero informático especializándose en ciberseguridad.
@@ -23,10 +32,6 @@
             Sin embargo, no todo es trabajo, mi -escaso- tiempo libre lo dedico al <b>PKM de ciberseguridad</b> (<i>Personal Knowledge Management</i>) y también disfruto jugando a <b>juegos de mesa</b>.
         </p>
     </div>
-    <p>
-        <b><i>" Mi objetivo es aumentar mi valor y el de los que me rodean. "</b></i>
-    </p>
-    <img src="https://komarev.com/ghpvc/?username=15Galan" alt="Visitas"/>
 </div>
 
 <div align="center">
