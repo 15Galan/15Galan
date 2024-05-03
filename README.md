@@ -236,11 +236,10 @@ La siguiente tabla representa mi experiencia e intereses sobre distintas áreas 
                 <img src="https://img.shields.io/badge/Hashcat-%233E3E41.svg?style=flat&logo=hashcat&logoColor=white" alt="Hashcat">
                 <img src="https://img.shields.io/badge/Hydra-%23168F78.svg?style=flat&logo=hydra&logoColor=white" alt="Hydra">
                 <br>
+                <img src="https://img.shields.io/badge/Nessus-%23061E42.svg?style=flat&logo=nessus&logoColor=white" alt="Nessus">
                 <img src="https://img.shields.io/badge/nmap-%23D0ECF4.svg?style=flat&logo=nmap&logoColor=white" alt="nmap">
             </td>
-            <td>
-                <img src="https://img.shields.io/badge/Nessus-%23061E42.svg?style=flat&logo=nessus&logoColor=white" alt="Nessus">
-                </td>
+            <td></td>
             <td>
                 <img src="https://img.shields.io/badge/John%20The%20Ripper-%23BA1515.svg?style=flat&logo=john-the-ripper&logoColor=black" alt="John The Ripper">
                 <img src="https://img.shields.io/badge/Burp%20Suite-%23FF6633.svg?style=flat&logo=burp-suite&logoColor=white" alt="Burp Suite">
@@ -251,7 +250,6 @@ La siguiente tabla representa mi experiencia e intereses sobre distintas áreas 
         </tr>
         <tr>
             <td align="left">🔵 Blue Team</td>
-            <td></td>
             <td>
                 <img src="https://img.shields.io/badge/Cytomic-%235E3079.svg?style=flat&logo=Cytomic&logoColor=white" alt="Cytomic">
                 <img src="https://img.shields.io/badge/IBM MaaS360-%23052FAD.svg?style=flat&logo=IBM&logoColor=white" alt="IBM MaaS360">
@@ -259,11 +257,13 @@ La siguiente tabla representa mi experiencia e intereses sobre distintas áreas 
                 <img src="https://img.shields.io/badge/Trend%20Micro-%23D71921.svg?style=flat&logo=trend-micro&logoColor=white" alt="Trend Micro">
                 <img src="https://img.shields.io/badge/VirusTotal-%23394EFF.svg?style=flat&logo=virustotal&logoColor=white" alt="Virus Total">
             </td>
+            <td></td>
             <td>
+                <img src="https://img.shields.io/badge/IRIS-%230E316A.svg?style=flat&logo=suricata&logoColor=white" alt="Iris">
                 <img src="https://img.shields.io/badge/Suricata-%23F6AC31.svg?style=flat&logo=suricata&logoColor=white" alt="Suricata">
-                <img src="https://img.shields.io/badge/Zeek-%232980B9.svg?style=flat&logo=zeek&logoColor=black" alt="Zeek">
                 <br>
                 <img src="https://img.shields.io/badge/Wazuh-%233AABE6.svg?style=flat&logo=wazuh&logoColor=white" alt="Wazuh">
+                <img src="https://img.shields.io/badge/Zeek-%232980B9.svg?style=flat&logo=zeek&logoColor=black" alt="Zeek">
             </td>
         </tr>
     </tbody>
