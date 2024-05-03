@@ -208,7 +208,7 @@ La siguiente tabla representa mi experiencia e intereses sobre distintas áreas 
 
 ## Ciberseguridad
 
-La siguiente tabla representa mi experiencia e intereses sobre distintas áreas genéricas.
+La siguiente tabla representa mi experiencia e intereses sobre distintas ramas de la ciberseguridad.
 
 <table>
     <thead align="center">
