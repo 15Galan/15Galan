@@ -159,7 +159,9 @@ La siguiente tabla representa mi experiencia e intereses sobre distintas áreas 
                 <br>
                 <img src="https://img.shields.io/badge/Overleaf-%2347A141.svg?style=flat&logo=overleaf&logoColor=white" alt="Overleaf">
             </td>
-            <td></td>
+            <td>
+                <img src="https://img.shields.io/badge/Anytype-%23FF6A7B.svg?style=flat&logo=anytype&logoColor=white" alt="Anytype">
+            </td>
             <td>
                 <img src="https://img.shields.io/badge/GitBook-%233884FF.svg?style=flat&logo=gitbook&logoColor=white" alt="GitBook">
             </td>
