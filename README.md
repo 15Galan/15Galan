@@ -19,7 +19,15 @@ $$
 
 Hola, soy **Galán**, ingeniero informático especializándose en ciberseguridad.
 
-Actualmente trabajo en [Hispasec](https://hispasec.com), la primera compañía de servicios de ciberseguridad de España, como **técnico SOC L2** y **coordinador de intervenciones**; y adicionalmente, también soy cofundador de [Fórmula Hacking](https://formulahacking.es), un centro de formación online en ciberseguridad, donde realizo labores de **docencia** y **gestión de proyectos**.
+**Actualmente** me encuentro realizando *mi [viaje del héroe](https://es.wikipedia.org/wiki/Monomito)*, siendo mi objetivo durante este período aprender y mejorar todo lo que pueda:
+
+- Elaborando pruebas de concepto (PoC) con tecnologías que me interesan.
+- Desarrollando mis propios mini-proyectos con los que aumentar mi experiencia.
+- Obteniendo certificaciones que demuestren y validen mi evolución.
+
+He decidido sacar tiempo para suplir aquello que considero que me falta, así como obtener nuevo conocimiento y mejorar, tanto profesional como personalmente.
+
+**Anteriormente**, trabajé en [Hispasec](https://hispasec.com) como **técnico SOC L2** y **coordinador de intervenciones**; y adicionalmente, también soy cofundador de [Fórmula Hacking](https://formulahacking.es), un centro de formación online en ciberseguridad, donde realizo labores de **docencia** y **gestión**.
 
 > [!NOTE]  
 > Puedes contactar conmigo a través de mi [LittleLink](https://srgalan.vercel.app), ya que no uso redes sociales.
