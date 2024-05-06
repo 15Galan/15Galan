@@ -100,14 +100,13 @@ La siguiente tabla representa mi experiencia e intereses sobre distintas áreas 
         </tr>
         <tr>
             <td align="left">🛠️ Frameworks</td>
-            <td></td>
+            <td>            
+                <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=flat&logo=flask&logoColor=white" alt="Flask"></td>
             <td>
                 <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white" alt="Django">
-            </td>
-            <td>
                 <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat&logo=fastapi&logoColor=white" alt="FastAPI">
-                <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=flat&logo=flask&logoColor=white" alt="Flask">
-            </tr>
+            </td>
+            <td></tr>
         </tr>
         <tr>
             <td align="left">📦 Virtualización</td>
@@ -265,9 +264,10 @@ La siguiente tabla representa mi experiencia e intereses sobre distintas ramas d
                 <img src="https://img.shields.io/badge/Trend%20Micro-%23D71921.svg?style=flat&logo=trend-micro&logoColor=white" alt="Trend Micro">
                 <img src="https://img.shields.io/badge/VirusTotal-%23394EFF.svg?style=flat&logo=virustotal&logoColor=white" alt="Virus Total">
             </td>
-            <td></td>
             <td>
                 <img src="https://img.shields.io/badge/IRIS-%230E316A.svg?style=flat&logo=suricata&logoColor=white" alt="Iris">
+            </td>
+            <td>
                 <img src="https://img.shields.io/badge/Suricata-%23F6AC31.svg?style=flat&logo=suricata&logoColor=white" alt="Suricata">
                 <br>
                 <img src="https://img.shields.io/badge/Wazuh-%233AABE6.svg?style=flat&logo=wazuh&logoColor=white" alt="Wazuh">
