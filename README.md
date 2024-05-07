@@ -277,7 +277,6 @@ La siguiente tabla representa mi experiencia e intereses sobre distintas ramas d
     </tbody>
 </table>
 
-
 # Estadísticas de GitHub
 
 Las siguientes insignias resumen mi actividad en esta plataforma.
