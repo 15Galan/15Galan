@@ -4,7 +4,7 @@
         <img src=".github/readme/banner-dark.png#gh-dark-mode-only" alt="Banner (oscuro)" />
     </p>
     <p align="left">
-        <a href="/languages/README-en.md">English<a> · <b>Español</b> · <a href="/languages/README-fr.md">Français</a>
+        <a href="/traducciones/README-en.md">English<a> · <b>Español</b> · <a href="/traducciones/README-fr.md">Français</a>
         <img align="right" src="https://komarev.com/ghpvc/?username=15Galan" alt="Visitas"/>
     </p>
 </div>
