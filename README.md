@@ -265,6 +265,12 @@ La siguiente tabla representa mi experiencia e intereses sobre distintas ramas d
                 <img src="https://img.shields.io/badge/VirusTotal-%23394EFF.svg?style=flat&logo=virustotal&logoColor=white" alt="Virus Total">
             </td>
             <td>
+                <img src="https://img.shields.io/badge/Beats-%23005571.svg?style=flat&logo=beats&logoColor=white" alt="Beats">
+                <img src="https://img.shields.io/badge/Elastic-%23005571.svg?style=flat&logo=elastic&logoColor=white" alt="Elastic">
+                <br>
+                <img src="https://img.shields.io/badge/Kibana-%23005571.svg?style=flat&logo=kibana&logoColor=white" alt="Kibana">
+                <img src="https://img.shields.io/badge/Logstash-%23005571.svg?style=flat&logo=logstash&logoColor=white" alt="Logstash">
+                <br>
                 <img src="https://img.shields.io/badge/IRIS-%230E316A.svg?style=flat&logo=suricata&logoColor=white" alt="Iris">
             </td>
             <td>
