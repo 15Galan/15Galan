@@ -186,16 +186,6 @@ La siguiente tabla representa mi experiencia e intereses sobre distintas áreas 
             </td>
         </tr>
         <tr>
-            <td align="left">VPN</td>
-            <td></td>
-            <td>
-                <img src="https://img.shields.io/badge/OpenVPN-%23EA7E20.svg?style=flat&logo=openvpn&logoColor=white" alt="OpenVPN">
-            </td>
-            <td>
-                <img src="https://img.shields.io/badge/Wireguard-%2388171A.svg?style=flat&logo=wireguard&logoColor=white" alt="Wireguard">
-            </td>
-        </tr>
-        <tr>
             <td align="left"><i>Otros</i></td>
             <td></td>
             <td>
@@ -234,8 +224,11 @@ La siguiente tabla representa mi experiencia e intereses sobre distintas ramas d
             </td>
             <td>
                 <img src="https://img.shields.io/badge/OPNSense-%23D94F00.svg?style=flat&logo=opnsense&logoColor=white" alt="OPNSense">
+                <img src="https://img.shields.io/badge/OpenVPN-%23EA7E20.svg?style=flat&logo=openvpn&logoColor=white" alt="OpenVPN">
             </td>
-            <td></td>
+            <td>
+                <img src="https://img.shields.io/badge/Wireguard-%2388171A.svg?style=flat&logo=wireguard&logoColor=white" alt="Wireguard">
+            </td>
         </tr>
         <tr>
             <td align="left">🔴 Red Team</td>
